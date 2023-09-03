@@ -1,0 +1,11 @@
+<theme>
+    <name>Ratounes</name>
+    <skinType>1</skinType>
+    <description>Theme dédié au Ratounes</description>
+    <previewUri>darkStoneTacticDesertPreview.jpg</previewUri>
+	<author>KeyOf</author>
+    <version>1.0.4</version>
+    <dofusVersion>2.68</dofusVersion> 
+    <creationDate>03/09/2023</creationDate> 
+    <modificationDate>03/09/2023</modificationDate> 
+</theme>
